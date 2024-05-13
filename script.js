@@ -1,3 +1,4 @@
+// biuld array of object with elements
 const quizData = [
     {
         question: "Which AI program, developed by IBM, defeated the world chess champion Garry Kasparov in 1997?",
